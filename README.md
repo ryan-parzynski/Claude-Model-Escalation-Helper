@@ -1,6 +1,6 @@
 # Claude Model Escalation Helper
 
-**AI Assistance Used:** This framework was built with Claude Haiku 4.5 (default), escalated to Claude Sonnet 4.6 for complex decision validation, and reviewed by background Opus 5.5 analysis. All policy, triggers, templates, and automation code were generated with AI assistance throughout the design process.
+**AI Assistance Used:** Framework designed with Claude Haiku 4.5 (default), escalated to Claude Sonnet 4.6 for decision validation, reviewed by Opus 5.5 background analysis. All policy, triggers, templates, and code generated with AI assistance.
 
 ---
 
